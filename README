@@ -1,0 +1,1 @@
+Joy2TX allows to use a PC joystick to control an RC device such as UAV, airplane, helicopter, robot. The application communicates with an RC transmitter through a trainer/buddy interface. Currently supported are PCBUDDY and SC-8000RF or SC-8000. The Joystick inputs are converted and send through a serial/USB port to the interface and RC transmitter in real time.
